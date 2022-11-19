@@ -1,0 +1,20 @@
+{
+  "name": "circuit-run",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/index.js",
+  "type": "module",
+  "keywords":[
+    "async",
+    "flow",
+    "terminate",
+    "Coprogram"
+  ],
+  "scripts": {
+    "demo": "node src/demo.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "license":"MIT",
+  "author": "Shizheng Zhang",
+  "repository": "https://gitee.com/SagarIsTaken/circuit-run.git"
+}
